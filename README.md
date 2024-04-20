@@ -13,7 +13,8 @@ to withdraw money,deposit.
 ## CLASS DIAGRAM :
 ![Screenshot 2024-04-20 094654](https://github.com/23003324/LAB-1-ATM/assets/140035234/4acb46c1-8eeb-4688-8d38-5b2916387c5a)
 ## SEQUENCE DIAGRAM :
-![Screenshot 2024-04-20 094654](https://github.com/23003324/LAB-1-ATM/assets/140035234/f90788fa-5cbb-415c-aaf8-76493aad9555)
+![Screenshot 2024-04-20 094724](https://github.com/23003324/LAB-1-ATM/assets/140035234/1f34a272-8a28-434b-8d64-008a8dab7b4f)
+
 ## ACTIVITY DIAGRAM :
 ![Screenshot 2024-04-20 094753](https://github.com/23003324/LAB-1-ATM/assets/140035234/1fd40bd8-3f1a-4c30-82fd-ac08f406aa18)
 ## COMMUNICATION DIAGRAM :
